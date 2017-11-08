@@ -59,10 +59,10 @@ social:
    href: //github.com/andrewblant
  - name: Git@OSC
    icon: git
-   href: //gitee.com/blant
+   href: //gitee.com/andrewblant
  - name: 邮箱
    icon: envelope-o
-   href: blant@vip.qq.com
+   href: mailto:blant@vip.qq.com
  - name: RSS
    icon: feed
    href: /atom.xml
