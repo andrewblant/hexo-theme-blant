@@ -3,7 +3,7 @@
 
 ## menu 导航菜单显示
 menu:
-- page: Spring Cloud|周立
+- page: Home
   url: /
   icon: fa-home
 - page: 分类
@@ -33,7 +33,7 @@ rss: /atom.xml
 ## widgets
 widgets:
 - notification
-- aboutme
+- blog_info
 - social
 - category
 - archive
@@ -41,30 +41,28 @@ widgets:
 - friends
 
 ## 首页关于我设置
-aboutme:
+blog_info:
   image: /icons/wx.jpg
-  author: 周立
-  words: 《Spring Cloud与Docker微服务架构实战》作者<br/>Spring4All社区发起人之一
+  author: Blant
+  words: 菩提本无树，明镜亦非台，本来无一物，何处惹尘埃。
 
 ## 网站公告设置
 notification: |-
             <p>
-              <b>笔者微信</b>：jumping_me，欢迎加我<br/>
-              <b>公众号</b>：请扫描我的头像<br/>
-              <b>本站主题</b>：<a href="http://github.com/itmuch/hexo-theme-itmuch">下载</a>
+              <b>笔者微信</b>：Andrewblant，欢迎加我<br/>
             </p>
 
 ## 社交设置
 social:
  - name: GitHub
    icon: github
-   href: //github.com/eacdy
+   href: //github.com/andrewblant
  - name: Git@OSC
    icon: git
-   href: //gitee.com/itmuch
+   href: //gitee.com/blant
  - name: 邮箱
    icon: envelope-o
-   href: mailto:eacdy0000@126.com
+   href: blant@vip.qq.com
  - name: RSS
    icon: feed
    href: /atom.xml
@@ -176,4 +174,4 @@ search:
 # 是否开启fork me on github
 fork_me_on_github:
   enabled: true
-  url: http://github.com/eacdy
+  url: http://github.com/andrewblant
