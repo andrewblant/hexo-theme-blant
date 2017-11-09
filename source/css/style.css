@@ -298,12 +298,24 @@ pre {
   display: inline-block;
   position: relative;
 }
-.main-navigation .menu li a {
-  color: #505050;
-  line-height: 4em;
-  display: block;
-  padding: 0 21px;
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+	.main-navigation .menu li a {
+	  color: #505050;
+	  line-height: 4em;
+	  display: block;
+	  padding: 0 9px;
+	}
 }
+@media only screen and (min-width: 480px){
+	.main-navigation .menu li a {
+	  color: #505050;
+	  line-height: 4em;
+	  display: block;
+	  padding: 0 21px;
+	}
+}
+
 .main-navigation .menu li:hover > a {
   color: #29afec;
   text-decoration: none;
