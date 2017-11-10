@@ -6,20 +6,22 @@ menu:
 - page: Home
   url: /
   icon: fa-home
-- page: categories
-  url: /categories
-  icon: fa-list
-- page: about
-  url: /about
-  icon: fa-user
 - page: archives
   url: /archives
   icon: fa-archive
 - page: tags
   url: /tags
   icon: fa-tag
+- page: Guide
+  url: /guide
+  icon: fa-list
+- page: about
+  url: /about
+  icon: fa-user
 
-
+##page: categories
+##url: /categories
+##icon: fa-list
 
 ## favicon 
 favicon: /favicon.ico
@@ -175,16 +177,16 @@ busuanzi_count:
 
 
 ### 百度统计
-baidu_anaylytics: 13766878cde148282622871dd245a973
+#baidu_anaylytics: 13766878cde148282622871dd245a973
 
 ### 谷歌统计
-google_anaylytics: 
+#google_anaylytics: 
 
 ### 百度文章推送
-baidu_push:
+#baidu_push:
 
 codeing_host_by:
-  enable: true
+  enable: false
 
 #网站主题配置
 since: 2016
