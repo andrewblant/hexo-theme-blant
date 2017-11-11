@@ -6,22 +6,19 @@ menu:
 - page: Home
   url: /
   icon: fa-home
+- page: categories
+  url: /categories
+  icon: fa-list
 - page: archives
   url: /archives
   icon: fa-archive
 - page: tags
   url: /tags
   icon: fa-tag
-- page: Guide
-  url: /guide
-  icon: fa-list
 - page: about
   url: /about
   icon: fa-user
 
-##page: categories
-##url: /categories
-##icon: fa-list
 
 ## favicon 
 favicon: /favicon.ico
@@ -82,14 +79,9 @@ arch_config:
 
 ## 友链设置
 links:
+  - 导航: http://www.blant.com/navigation
   - 大平台: http://fly2you.cn/
-  - 大数据: https://www.feel88.cn/
-  - 程序猿DD|翟永超: http://blog.didispace.com/
-  - 泥瓦匠的博客: http://www.bysocket.com/
-  - EdisonXu's Blog: http://edisonxu.org/
-  - 沧海云视频: http://www.ictgu.cn
-  - 梁桂钊的博客: http://blog.720ui.com/
-
+  - SpringCloud|周立: https://www.itmuch.com/
 
 
 # 主题自定义个性化配置
