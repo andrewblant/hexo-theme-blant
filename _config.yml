@@ -80,8 +80,8 @@ arch_config:
 ## 友链设置
 links:
   - 导航: http://www.blant.com/navigation
-  - 大平台: http://fly2you.cn/
-  - SpringCloud|周立: https://www.itmuch.com/
+  - 大平台: http://www.fly2you.cn/
+##SpringCloud|周立: http://www.itmuch.com/
 
 
 # 主题自定义个性化配置

@@ -24,6 +24,12 @@
         <%})%>
         </div>
     </article>
+
+
+<% } else if(page.type=='message') { %>
+
+<%- partial('message') %>
+    
 <% } else{ %>
     <article class="post">
         <h1 class="post-head">About</h1>
