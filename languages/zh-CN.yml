@@ -33,3 +33,7 @@ popular_post: 热门文章
 search:
   close: 关闭
   name: 搜索
+state:
+  posts: 日志
+  categories: 分类
+  tags: 标签
